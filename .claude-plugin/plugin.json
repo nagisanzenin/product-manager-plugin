@@ -1,0 +1,10 @@
+{
+  "name": "product-manager",
+  "description": "AI Product Manager skill: interviews stakeholders, writes BRDs/PRDs, and autonomously verifies engineering implementation against business requirements",
+  "version": "1.0.0",
+  "author": {
+    "name": "Quan Duong"
+  },
+  "license": "MIT",
+  "keywords": ["product-manager", "brd", "prd", "requirements", "business-logic", "feature-spec"]
+}
